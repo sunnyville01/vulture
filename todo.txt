@@ -1,0 +1,2 @@
+ring bell only if profit is greater than 2
+display new results seperately
